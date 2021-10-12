@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Simon
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Games Technology
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
