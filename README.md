@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Simon
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning Games Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey there, Simon here.
 
+I study at UWE Bristol - Games Technology
+
+My favourite programming language Its C++
+
+I am from Italy.
